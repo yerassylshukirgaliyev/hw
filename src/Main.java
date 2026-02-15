@@ -21,7 +21,7 @@ public class Main {
 
         // лучник и следопыт
         CharacterFactory archerFact = new ArcherFactory();
-        EquipmentFactory rangerEquip = new RangerEquipmentFactory();
+        git remote add origin https://github.com/yerassylshukirgaliyev/hw.git EquipmentFactory rangerEquip = new RangerEquipmentFactory();
 
         Character myArcher = archerFact.createCharacter();
         System.out.println("Герой готов:");
